@@ -1,9 +1,9 @@
 
 
 ## Command to create this react project
-> ``` 
+``` 
  npm init react-app
- ```
+```
 
 ## Available Scripts
 
