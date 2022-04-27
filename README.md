@@ -3,7 +3,7 @@
 ## Command to create this react project
 > ``` 
 > npm init 
-> ```
+ ```
 
 ## Available Scripts
 
